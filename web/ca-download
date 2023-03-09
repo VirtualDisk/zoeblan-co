@@ -1,0 +1,105 @@
+<html>
+<body style="background-color:black;">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<center><p style="font-size: 30px;color: pink"><a href="cert/zoe.crt"><p style="font-size: 30px;color: pink">ok here's cert lol!!!!</center></p></a>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;font-size: 30px"><a href="https://support.pkware.com/home/sfd/16.0/macos/macos-how-to/macos-trusting-a-ssl-certificate">mac instructions &#127822;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/en-us/skype-sdk/sdn/articles/installing-the-trusted-root-certificate">windows instructions &#129695;</a></p> 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
+<style>
+    * { 
+        font-family: Comic Sans;
+    }
+    body {
+        background-color: black
+    }
+    html {
+        min-height: 100%
+    }
+    /* a {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    } */
+    a:link {
+      color: #FF69B4;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: #FF69B4;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: blue;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:active {
+      color: white;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    </style> 
