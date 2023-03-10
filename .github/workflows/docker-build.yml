@@ -26,7 +26,7 @@ jobs:
         with:
           # list of Docker images to use as base name for tags
           images: |
-            virtualdisk/zoeblan-co
+            docker.io/virtualdisk/zoeblan-co
             registry.zoeblan.co/zoeblan-co
           # generate Docker tags based on the following events/attributes
           tags: |
