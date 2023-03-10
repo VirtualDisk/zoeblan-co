@@ -12,8 +12,8 @@
 </audio></center>--> 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<center><video width="520" controls>
-    <source src="hackinginprogress.webm" type="video/webm">
+<center><video width="520" autoplay controls>
+    <source src="hackinginprogress.webm">
 </video></center> 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
