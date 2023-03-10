@@ -47,7 +47,7 @@ jobs:
         name: Kaniko build
         uses: aevea/action-kaniko@master
         with:
-          image: aevea/kaniko
+          image: docker.io/virtualdisk/zoeblan-co
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
           cache: true
